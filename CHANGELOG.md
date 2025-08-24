@@ -9,7 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [UNRELEASED]
 
+---
+
+## [0.2.0.] - 2025-08-24
+
 ### Changed
+- Version-Bump auf 0.2.0
 - jede Datei angepasst
 
 ---
